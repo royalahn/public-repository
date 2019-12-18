@@ -9,4 +9,6 @@
     ad = add
     tg = tag -n
     df = diff
+    dfs = diff --staged
     br = branch
+    nfmerge = merge --no-ff
