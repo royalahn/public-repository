@@ -9,6 +9,8 @@
     ad = add
     tg = tag -n
     df = diff
+    dfc = diff --color-words
     dfs = diff --staged
+    dfsc = diff --staged --color-words
     br = branch
     nfmerge = merge --no-ff
