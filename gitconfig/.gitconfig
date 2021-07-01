@@ -17,4 +17,4 @@
 	nfmerge = merge --no-ff
 
 [core]
-	autocrlf = true
+	autocrlf = input
